@@ -1,13 +1,23 @@
-Hi there! 👋 I'm Tejas Sonawane
+
+---
+
+## Hi there! 👋 I'm [Your Name]
+
 I'm a React.js developer at Giant Leap Systems Pvt. Ltd., passionate about crafting engaging user experiences. My expertise includes React, Node.js, Java, and JavaScript. Currently, I'm diving into AWS and Next.js to expand my skill set and build better web applications.
 
-What I Bring to the Table:
-React.js Specialist: Crafting efficient and elegant UIs with React.js.
-Full-Stack Proficiency: Skilled in Node.js, Java, and JavaScript for both frontend and backend development.
-AWS Learner: Exploring Amazon Web Services for cloud computing solutions.
-Next.js Explorer: Delving into Next.js for production-ready web apps.
-Let's Connect:
-I'm always up for discussing React.js, Node.js, or anything tech-related! Connect with me on LinkedIn or Twitter to start a conversation.
+### What I Bring to the Table:
+
+- **React.js Specialist:** Crafting efficient and elegant UIs with React.js.
+- **Full-Stack Proficiency:** Skilled in Node.js, Java, and JavaScript for both frontend and backend development.
+- **AWS Learner:** Exploring Amazon Web Services for cloud computing solutions.
+- **Next.js Explorer:** Delving into Next.js for production-ready web apps.
+
+### Let's Connect:
+
+I'm always up for discussing React.js, Node.js, or anything tech-related! Connect with me on [LinkedIn](#) or [Twitter](#) to start a conversation.
+
+--- 
+
 
 
 ## 🌐 Socials:
