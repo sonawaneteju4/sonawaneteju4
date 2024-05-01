@@ -1,5 +1,13 @@
-# 💫 About Me:
-<br><br>## Hi there! 👋 I'm Tejas Sonawane<br><br>I'm a passionate React.js developer with a strong foundation in Node.js, Java, and JavaScript. Currently, I'm honing my skills at Giant Leap Systems Pvt. Ltd., where I'm engaged in building robust and scalable web applications.<br><br>### What I Bring to the Table:<br><br>- **React.js Expertise:** I specialize in crafting elegant and efficient user interfaces using React.js. Whether it's creating interactive components or optimizing performance, I strive for excellence in every project.<br>  <br>- **Full-Stack Proficiency:** With expertise in Node.js, Java, and JavaScript, I'm well-equipped to tackle both frontend and backend challenges. From server-side logic to client-side interactions, I'm committed to delivering seamless user experiences.<br>  <br>- **AWS Enthusiast:** I'm currently diving deeper into Amazon Web Services (AWS) to broaden my skill set and explore the possibilities of cloud computing. From deploying applications to managing infrastructure, I'm eager to leverage AWS to its fullest potential.<br>  <br>- **Next.js Exploration:** I'm also on a journey to master Next.js, the React framework for building production-ready applications. By harnessing the power of server-side rendering and static site generation, I aim to create fast, SEO-friendly web experiences.<br><br>### About Me:<br><br>When I'm not coding, you can find me exploring the latest tech trends, experimenting with new frameworks, or enjoying outdoor adventures. I thrive on continuous learning and collaboration, always seeking opportunities to grow and innovate in the ever-evolving world of web development.<br><br>### Let's Connect:<br><br>If you're passionate about React.js, Node.js, or anything in between, I'd love to connect and share insights. Feel free to reach out via [LinkedIn](#) or [Twitter](#), and let's embark on this coding journey together!<br><br>
+Hi there! 👋 I'm Tejas Sonawane
+I'm a React.js developer at Giant Leap Systems Pvt. Ltd., passionate about crafting engaging user experiences. My expertise includes React, Node.js, Java, and JavaScript. Currently, I'm diving into AWS and Next.js to expand my skill set and build better web applications.
+
+What I Bring to the Table:
+React.js Specialist: Crafting efficient and elegant UIs with React.js.
+Full-Stack Proficiency: Skilled in Node.js, Java, and JavaScript for both frontend and backend development.
+AWS Learner: Exploring Amazon Web Services for cloud computing solutions.
+Next.js Explorer: Delving into Next.js for production-ready web apps.
+Let's Connect:
+I'm always up for discussing React.js, Node.js, or anything tech-related! Connect with me on LinkedIn or Twitter to start a conversation.
 
 
 ## 🌐 Socials:
