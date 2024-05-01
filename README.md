@@ -1,7 +1,6 @@
 
----
 
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm Tejas Sonawane
 
 I'm a React.js developer at Giant Leap Systems Pvt. Ltd., passionate about crafting engaging user experiences. My expertise includes React, Node.js, Java, and JavaScript. Currently, I'm diving into AWS and Next.js to expand my skill set and build better web applications.
 
