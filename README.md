@@ -1,10 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=160&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=160&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB" width="100%"/>
+</picture>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=800&size=48&duration=1500&pause=1500&color=1D9E75&center=true&vCenter=true&width=700&height=80&lines=Tejas+Sonawane" alt="Tejas Sonawane"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=16&duration=1500&pause=1500&color=888780&center=true&vCenter=true&width=700&height=30&lines=Associate+Engineer+%C2%B7+Full-Stack+Developer" alt="Associate Engineer · Full-Stack Developer"/>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/tejassonawane0205/"><img src="https://img.shields.io/badge/LinkedIn-tejassonawane0205-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -223,3 +222,8 @@ Mexico's national & international **trade analytics platform**
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
+</picture>
