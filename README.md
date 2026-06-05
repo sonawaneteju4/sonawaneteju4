@@ -1,21 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=85&descSize=14&descColor=9FE1CB"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=85&descSize=14&descColor=9FE1CB"/>
-</picture>
+<img src="https://raw.githubusercontent.com/sonawaneteju4/sonawaneteju4/main/header.svg" width="800" alt="Tejas Sonawane"/>
 
-<br/>
 
-<a href="https://www.linkedin.com/in/tejassonawane0205/"><img src="https://img.shields.io/badge/LinkedIn-tejassonawane0205-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:sonawaneteju4@gmail.com"><img src="https://img.shields.io/badge/Email-sonawaneteju4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/sonawaneteju4"><img src="https://img.shields.io/badge/GitHub-sonawaneteju4-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-React_Certified-1D9E75?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/📍-Pune%2C%20India-F1EFE8?style=flat-square&color=E1F5EE&labelColor=E1F5EE"/>
 
