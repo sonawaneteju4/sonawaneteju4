@@ -1,0 +1,30 @@
+<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name {
+        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 54px;
+        font-weight: 800;
+        fill: #1D9E75;
+        animation: pulse 1.6s ease-in-out infinite;
+      }
+      .sub {
+        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        fill: #888780;
+        animation: pulse 1.6s ease-in-out infinite;
+        animation-delay: 0.15s;
+      }
+      @keyframes pulse {
+        0%   { opacity: 0; }
+        25%  { opacity: 1; }
+        75%  { opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <rect width="800" height="130" fill="transparent"/>
+  <text x="400" y="74" text-anchor="middle" class="name">Tejas Sonawane</text>
+  <text x="400" y="104" text-anchor="middle" class="sub">Associate Engineer · Full-Stack Developer</text>
+</svg>
