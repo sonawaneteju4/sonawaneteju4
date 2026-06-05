@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sonawaneteju4/sonawaneteju4/main/header.svg" width="800" alt="Tejas Sonawane"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDgwMCAxMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5uYW1lIHsgYW5pbWF0aW9uOiBmbyAxLjZzIGVhc2UtaW4tb3V0IGluZmluaXRlOyB9CiAgICAgIC5zdWIgIHsgYW5pbWF0aW9uOiBmbyAxLjZzIGVhc2UtaW4tb3V0IGluZmluaXRlOyBhbmltYXRpb24tZGVsYXk6IDAuMTVzOyB9CiAgICAgIEBrZXlmcmFtZXMgZm8gewogICAgICAgIDAlICAgeyBvcGFjaXR5OiAwOyB9CiAgICAgICAgMjUlICB7IG9wYWNpdHk6IDE7IH0KICAgICAgICA3NSUgIHsgb3BhY2l0eTogMTsgfQogICAgICAgIDEwMCUgeyBvcGFjaXR5OiAwOyB9CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMTMwIiBmaWxsPSJ0cmFuc3BhcmVudCIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjU0IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjMUQ5RTc1IiBjbGFzcz0ibmFtZSI+VGVqYXMgU29uYXdhbmU8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIxMDQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjODg4NzgwIiBjbGFzcz0ic3ViIj5Bc3NvY2lhdGUgRW5naW5lZXIgwrcgRnVsbC1TdGFjayBEZXZlbG9wZXI8L3RleHQ+Cjwvc3ZnPg==" width="800" alt="Tejas Sonawane — Associate Engineer · Full-Stack Developer"/>
 
+<a href="https://www.linkedin.com/in/tejassonawane0205/"><img src="https://img.shields.io/badge/LinkedIn-tejassonawane0205-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:sonawaneteju4@gmail.com"><img src="https://img.shields.io/badge/Email-sonawaneteju4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/sonawaneteju4"><img src="https://img.shields.io/badge/GitHub-sonawaneteju4-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-React_Certified-1D9E75?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 
+<br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Pune%2C%20India-F1EFE8?style=flat-square&color=E1F5EE&labelColor=E1F5EE"/>
+<img src="https://img.shields.io/badge/📍_Pune,_India-E1F5EE?style=flat-square&color=E1F5EE&labelColor=E1F5EE"/>
 
 </div>
 
@@ -18,7 +26,7 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🚀_90%25+-Performance_Gain-1D9E75?style=for-the-badge&color=E1F5EE&labelColor=E1F5EE"/>
-<br/><sub><b style="color:#085041">Jaybel SmartPro improvement</b></sub>
+<br/><sub><b>Jaybel SmartPro improvement</b></sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/⚡_9s_→_0.3s-API_Response_Time-1D9E75?style=for-the-badge&color=E1F5EE&labelColor=E1F5EE"/>
@@ -107,8 +115,7 @@ const tejas = {
 ## 💼 Experience
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 **Associate Engineer** · Giant Leap Systems, Pune &nbsp;&nbsp; `Apr 2024 – Present`
 
@@ -117,18 +124,15 @@ const tejas = {
 - Contributed to backend: DB schema design, REST APIs, and data migration
 - Set up **CI/CD pipelines and AWS deployments** for production-ready releases
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 **Intern** · Giant Leap Systems, Pune &nbsp;&nbsp; `Dec 2023 – Apr 2024`
 
 - Feature development, bug fixes, and data integration on a live quote management app
 - Collaborated with analytics team to deliver business insights and reports
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
@@ -210,11 +214,6 @@ Mexico's national & international **trade analytics platform**
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer"/>
-</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sonawaneteju4&color=1D9E75&style=flat-square)
 
