@@ -1,26 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F5F0&height=180&section=header&text=Tejas%20Sonawane&fontSize=48&fontColor=111111&animation=fadeIn&desc=Associate%20Engineer%20•%20Full-Stack%20Developer&descSize=16&descColor=555555"/>
+### ASSOCIATE ENGINEER · FULL-STACK DEVELOPER
+
+# Tejas Sonawane
+
+**Building scalable web applications with React, Spring Boot & AWS**
+Specializing in legacy modernization and performance engineering.
 
 <br/>
 
-Building scalable web applications with React, Spring Boot & AWS
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/tejassonawane0205">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sonawaneteju4@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sonawaneteju4">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-ffffff?style=for-the-badge\&logo=linkedin\&logoColor=black\&labelColor=ffffff\&color=EAEAEA)](https://linkedin.com/in/tejassonawane0205)
+[![Email](https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge\&logo=gmail\&logoColor=black\&labelColor=ffffff\&color=EAEAEA)](mailto:sonawaneteju4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sonawaneteju4-ffffff?style=for-the-badge\&logo=github\&logoColor=black\&labelColor=ffffff\&color=EAEAEA)](https://github.com/sonawaneteju4)
 
 📍 Pune, India
 
@@ -28,37 +19,35 @@ Building scalable web applications with React, Spring Boot & AWS
 
 ---
 
-## Highlights
-
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🚀 90%+
+## 🚀 90%+
 
-Performance Gain
+Performance Improvement
 
-Jaybel SmartPro
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ 9s → 0.3s
-
-API Response
-
-Frontend Re-architecture
+*Jaybel SmartPro*
 
 </td>
 
 <td align="center" width="33%">
 
-### 🗄️ 2TB+
+## ⚡ 9s → 0.3s
 
-MySQL Dataset
+API Response Reduction
 
-InterInfo
+*Frontend Re-architecture*
+
+</td>
+
+<td align="center" width="33%">
+
+## 🗄️ 2TB+
+
+MySQL Dataset Optimized
+
+*InterInfo*
 
 </td>
 </tr>
@@ -66,9 +55,9 @@ InterInfo
 
 ---
 
-## About
+### ABOUT
 
-```typescript
+```ts
 const tejas = {
   role: "Associate Engineer @ Giant Leap Systems",
 
@@ -98,53 +87,62 @@ const tejas = {
 
 ---
 
-## Technical Stack
+### TECHNICAL STACK
 
 <table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="50%">
 
-### Frontend
+#### 🖥️ FRONTEND
 
-* React.js
-* Next.js
-* TypeScript
-* Redux
-* Tailwind CSS
-
-</td>
-
-<td width="25%" valign="top">
-
-### Backend
-
-* Spring Boot
-* Java 21
-* Node.js
-* Express.js
+`React.js`
+`Next.js`
+`TypeScript`
+`Redux`
+`Tailwind`
+`HTML`
+`CSS`
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%">
 
-### Data & Cloud
+#### ⚙️ BACKEND
 
-* MySQL
-* Redis
-* AWS
-* Nginx
+`Spring Boot`
+`Node.js`
+`Java 21`
+`Express.js`
+`REST APIs`
 
 </td>
 
-<td width="25%" valign="top">
+</tr>
 
-### Tooling
+<tr>
 
-* Docker
-* Git
-* GitHub
-* Postman
+<td width="50%">
+
+#### 🗄️ DATA & CLOUD
+
+`MySQL`
+`Redis`
+`AWS`
+`Nginx`
+`Vercel`
+
+</td>
+
+<td width="50%">
+
+#### 🛠️ TOOLING
+
+`Docker`
+`Git`
+`GitHub`
+`Postman`
+`VS Code`
 
 </td>
 
@@ -153,28 +151,28 @@ const tejas = {
 
 ---
 
-## Experience
+### EXPERIENCE
 
-### Associate Engineer — Giant Leap Systems
+#### Associate Engineer · Giant Leap Systems
 
-**Apr 2024 – Present**
+`Apr 2024 – Present`
 
 * Built company's first React.js application
 * Reduced quotation processing from minutes to seconds
 * Designed reusable frontend architecture
 * Implemented CI/CD pipelines and AWS deployments
 
-### Intern — Giant Leap Systems
+#### Intern · Giant Leap Systems
 
-**Dec 2023 – Apr 2024**
+`Dec 2023 – Apr 2024`
 
-* Feature development
-* Bug fixes
-* Analytics integrations
+* Feature development and bug fixes
+* Data integrations and reporting
+* Analytics support
 
 ---
 
-## Featured Projects
+### PROJECTS
 
 <table>
 <tr>
@@ -183,14 +181,19 @@ const tejas = {
 
 ## Jaybel SmartPro
 
-**AngularJS + Struts → React + Spring Boot**
+**AngularJS + Struts → React.js + Spring Boot**
 
-* 90%+ performance improvement
-* API response time: 9s → 0.3s
-* Redis caching
-* AWS deployment
+🚀 90%+ performance improvement
 
-**Tech:** React • Spring Boot • Node.js • Redis
+⚡ API response reduced from 9s → 0.3s
+
+**Tech**
+
+`React`
+`Spring Boot`
+`Node.js`
+`Redis`
+`AWS`
 
 </td>
 
@@ -200,12 +203,17 @@ const tejas = {
 
 **Trade Analytics Platform**
 
-* 2TB+ optimized dataset
-* Java 7 → Java 21 migration
-* React + Spring Boot rewrite
-* Nginx reverse proxy
+🗄️ 2TB+ optimized dataset
 
-**Tech:** React • Java 21 • MySQL • Nginx
+🔄 Java 7 → Java 21 migration
+
+**Tech**
+
+`React`
+`Spring Boot`
+`Java 21`
+`MySQL`
+`Nginx`
 
 </td>
 
@@ -214,13 +222,13 @@ const tejas = {
 
 ---
 
-## GitHub Analytics
+### GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonawaneteju4&show_icons=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sonawaneteju4&show_icons=true&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonawaneteju4&layout=compact&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonawaneteju4&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -232,13 +240,13 @@ const tejas = {
 
 ---
 
-## Current Focus
+### CURRENTLY FOCUSED ON
 
-* Building production-grade apps with Next.js
-* AWS Solutions Architecture
-* System Design
-* Performance Optimization
-* Open Source Contributions
+* 🔭 Building production-grade apps with Next.js + TypeScript
+* 🌱 AWS Solutions Architecture
+* 🚀 Performance Optimization
+* ☁️ Cloud-native deployments
+* 🤝 Open Source Contributions
 
 ---
 
@@ -246,10 +254,10 @@ const tejas = {
 
 ### Let's Connect
 
-📧 [sonawaneteju4@gmail.com](mailto:sonawaneteju4@gmail.com)
+📧 **[sonawaneteju4@gmail.com](mailto:sonawaneteju4@gmail.com)**
 
-💼 LinkedIn: tejas-sonawane
+💼 **LinkedIn:** tejassonawane0205
 
-⭐ Always open to interesting projects and collaborations
+⭐ Open to impactful projects and collaborations
 
 </div>
