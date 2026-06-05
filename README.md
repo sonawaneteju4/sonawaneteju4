@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=160&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=160&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Tejas%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Associate%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=9FE1CB" width="100%"/>
 </picture>
 
 <div align="center">
