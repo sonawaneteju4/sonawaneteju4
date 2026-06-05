@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDgwMCAxMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5uYW1lIHsgYW5pbWF0aW9uOiBmbyAxLjZzIGVhc2UtaW4tb3V0IGluZmluaXRlOyB9CiAgICAgIC5zdWIgIHsgYW5pbWF0aW9uOiBmbyAxLjZzIGVhc2UtaW4tb3V0IGluZmluaXRlOyBhbmltYXRpb24tZGVsYXk6IDAuMTVzOyB9CiAgICAgIEBrZXlmcmFtZXMgZm8gewogICAgICAgIDAlICAgeyBvcGFjaXR5OiAwOyB9CiAgICAgICAgMjUlICB7IG9wYWNpdHk6IDE7IH0KICAgICAgICA3NSUgIHsgb3BhY2l0eTogMTsgfQogICAgICAgIDEwMCUgeyBvcGFjaXR5OiAwOyB9CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMTMwIiBmaWxsPSJ0cmFuc3BhcmVudCIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjU0IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjMUQ5RTc1IiBjbGFzcz0ibmFtZSI+VGVqYXMgU29uYXdhbmU8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIxMDQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhIE5ldWUsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjODg4NzgwIiBjbGFzcz0ic3ViIj5Bc3NvY2lhdGUgRW5naW5lZXIgwrcgRnVsbC1TdGFjayBEZXZlbG9wZXI8L3RleHQ+Cjwvc3ZnPg==" width="800" alt="Tejas Sonawane — Associate Engineer · Full-Stack Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=800&size=48&duration=1500&pause=1500&color=1D9E75&center=true&vCenter=true&width=700&height=80&lines=Tejas+Sonawane" alt="Tejas Sonawane"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=16&duration=1500&pause=1500&color=888780&center=true&vCenter=true&width=700&height=30&lines=Associate+Engineer+%C2%B7+Full-Stack+Developer" alt="Associate Engineer · Full-Stack Developer"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/tejassonawane0205/"><img src="https://img.shields.io/badge/LinkedIn-tejassonawane0205-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -11,7 +15,6 @@
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-React_Certified-1D9E75?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 
 <br/><br/>
-
 <img src="https://img.shields.io/badge/📍_Pune,_India-E1F5EE?style=flat-square&color=E1F5EE&labelColor=E1F5EE"/>
 
 </div>
