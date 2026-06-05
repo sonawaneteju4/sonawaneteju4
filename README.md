@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=42&duration=1&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&height=80&lines=Tejas+Sonawane" alt="Tejas Sonawane" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=40&duration=1&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&height=80&lines=Tejas+Sonawane" alt="Tejas Sonawane" />
 
 ### Associate Engineer · Full-Stack Developer
 
